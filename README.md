@@ -1,11 +1,10 @@
 ## Hi there 👋
 # I'm P V Vighnesh
-
-
-
-
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[1]: http://www.twitter.com/pv_vighnesh
+- :classical_building: I graduated Engineering in 2020!
+- 🔭 I’m currently working on Salesforce.com development, Vlocity development and Lightning Web Components(lwc).
+- 🌱 I’m currently learning Web development and Lightning Web Components(lwc).
+- ⚡ Fun fact: I'd ride 50Kms just for a cup of tea, and I like to sit and look at the sky because I'm easily fasinated by shape of the clouds!:relieved:
+- - 📫 How to reach me: [Twitter](https://twitter.com/vighneshPV), [LinkedIn](https://www.linkedin.com/in/pvvighnesh/)
 <!--
 **pv-vighnesh/pv-vighnesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
