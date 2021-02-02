@@ -1,5 +1,5 @@
-## Hi there 👋
-# I'm P V Vighnesh
+# Hi there 👋
+## I'm P V Vighnesh
 - :classical_building: I graduated Engineering in 2020!
 - 🔭 I’m currently working on [Salesforce.com development](https://developer.salesforce.com/), [Vlocity development](https://vlocity.com/platform) and [Lightning Web Components(lwc)](https://lwc.dev/).
 - 🌱 I’m currently learning Web development and [Lightning Web Components(lwc)](https://lwc.dev/).
