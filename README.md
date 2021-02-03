@@ -1,5 +1,5 @@
 
-# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am P V Vighnesh!
+# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm P V Vighnesh!
 
 - :classical_building: I graduated Engineering in 2020!
 - 🔭 I’m currently working on [Salesforce.com development](https://developer.salesforce.com/), [Vlocity development](https://vlocity.com/platform) and [Lightning Web Components(lwc)](https://lwc.dev/).
