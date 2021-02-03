@@ -1,3 +1,5 @@
+---
+
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am P V Vighnesh!
 
 - :classical_building: I graduated Engineering in 2020!
@@ -5,14 +7,12 @@
 - 🌱 I’m currently learning Web development and [Lightning Web Components(lwc)](https://lwc.dev/).
 - ⚡ Fun fact: I'd ride 50Kms just for a cup of tea, and I like to sit and look at the sky because I'm easily fasinated by shape of the clouds!:relieved:
 
----
 
 ## I am also lurking on ⚡
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/pvvighnesh/)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='20'>](https://twitter.com/VighneshPV)
+ [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/pvvighnesh/)
+ [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='20'>](https://twitter.com/VighneshPV)
 
----
 
 ## My GitHub Stats &#x1f4c8;
 
@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ..
 
 ---
 ## I am also lurking on ⚡
