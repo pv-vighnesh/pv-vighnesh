@@ -9,9 +9,9 @@
 
 ## I'm also lurking on ⚡
 
- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/pvvighnesh/)
- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='20'>](https://twitter.com/VighneshPV)
- [<img src='https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg' alt='Dev.to blog' height='20'>](https://dev.to/pvvighnesh)
+ [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20' color='blue'>](https://www.linkedin.com/in/pvvighnesh/)
+ [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='20' color='blue'>](https://twitter.com/VighneshPV)
+ [<img src='https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg' alt='Dev.to blog' height='20' color='blue'>](https://dev.to/pvvighnesh)
 
 
 ## My GitHub Stats &#x1f4c8;
