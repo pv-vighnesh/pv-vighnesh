@@ -12,8 +12,6 @@
  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20' color='blue'>](https://www.linkedin.com/in/pvvighnesh/)
  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='20' color='blue'>](https://twitter.com/VighneshPV)
  [<img src='https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg' alt='Dev.to blog' height='20' color='blue'>](https://dev.to/pvvighnesh)
- <!--[<img width="337" alt="Hashnode blog" src="https://user-images.githubusercontent.com/74532975/114691358-369cb800-9d35-11eb-8f5a-9fe85266c799.png" width='20' height='20'>](https://hashnode.com/@pv-vighnesh)-->
-
 
 ## My GitHub Stats &#x1f4c8;
 
