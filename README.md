@@ -4,7 +4,7 @@
 - :classical_building: I graduated Engineering in 2020!
 - 🔭 I’m a Salesforce certified Administrator currently working on [Salesforce.com development](https://developer.salesforce.com/), [Vlocity development](https://vlocity.com/platform) and [Lightning Web Components(lwc)](https://lwc.dev/).
 - 🌱 I’m currently learning Web development and [Lightning Web Components(lwc)](https://lwc.dev/).
-- ⚡ Fun fact: I'd ride 50Kms just for a cup of tea, and I like to sit and look at the sky because I'm easily fasinated by shape of the clouds!:relieved:
+- ⚡ Fun fact: I'd ride 50Kms just for a cup of tea!:relieved:
 
 
 ## I'm also lurking on ⚡
