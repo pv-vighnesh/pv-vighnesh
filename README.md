@@ -2,7 +2,7 @@
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm P V Vighnesh!
 
 - :classical_building: I graduated Engineering in 2020!
-- 🔭 I’m a [Salesforce certified Administrator](https://trailblazer.me/id/pvvighnesh) currently working on [Salesforce.com development](https://developer.salesforce.com/), [Vlocity development](https://vlocity.com/platform) and [Lightning Web Components(lwc)](https://lwc.dev/).
+- 🔭 I’m a [Salesforce certified Administrator](https://trailblazer.me/id/pvvighnesh) currently working on [Salesforce.com development](https://developer.salesforce.com/), [Vlocity(Salesforce Industries) development](https://vlocity.com/platform) and [Lightning Web Components(lwc)](https://lwc.dev/).
 - 🌱 I’m currently learning Web development and [Lightning Web Components(lwc)](https://lwc.dev/).
 - ⚡ Fun fact: I'd ride 50Kms just for a cup of tea!:relieved:
 
