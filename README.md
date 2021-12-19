@@ -1,47 +1,38 @@
+<h1 align="center">Hi 👋, I'm P V Vighnesh!</h1>
+<h3 align="center">I build things that live on the Web and Salesforce!</h3>
 
-# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm P V Vighnesh!
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pv-vighnesh&label=Profile%20views&color=0e75b6&style=flat" alt="pv-vighnesh" /> </p>
 
-- :classical_building: I graduated Engineering in 2020!
-- 🔭 I’m a [Salesforce certified Administrator](https://trailblazer.me/id/pvvighnesh) currently working on [Salesforce.com development](https://developer.salesforce.com/), [Vlocity(Salesforce Industries) development](https://vlocity.com/platform) and [Lightning Web Components(lwc)](https://lwc.dev/).
-- 🌱 I’m currently learning Web development and [Lightning Web Components(lwc)](https://lwc.dev/).
-- ⚡ Fun fact: I'd ride 50Kms just for a cup of tea!:relieved:
+<p align="left"> <a href="https://twitter.com/vighneshpv" target="blank"><img src="https://img.shields.io/twitter/follow/vighneshpv?logo=twitter&style=for-the-badge" alt="vighneshpv" /></a> </p>
 
+- 🔭 I’m currently working on **Lightning web components, Salesforce and Omnistudio development**
 
-## I'm also lurking on ⚡
+- 🌱 I’m currently learning **React**
 
- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20' color='blue'>](https://www.linkedin.com/in/pvvighnesh/)
- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='20' color='blue'>](https://twitter.com/VighneshPV)
- [<img src='https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg' alt='Dev.to blog' height='20' color='blue'>](https://dev.to/pvvighnesh)
+- 👨‍💻 All of my projects are available at [https://pv-vighnesh.github.io/](https://pv-vighnesh.github.io/)
 
-## My GitHub Stats &#x1f4c8;
+- 📝 I regularly write articles on [https://dev.to/pvvighnesh](https://dev.to/pvvighnesh)
 
-<a href="https://github.com/pv-vighnesh/pv-vighnesh">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pv-vighnesh&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+- 💬 Ask me about **Salesforce, Front-end, Design and F1**
 
----
-<!--
-- :classical_building: I graduated Engineering in 2020!
-- 🔭 I’m currently working on [Salesforce.com development](https://developer.salesforce.com/), [Vlocity development](https://vlocity.com/platform) and [Lightning Web Components(lwc)](https://lwc.dev/).
-- 🌱 I’m currently learning Web development and [Lightning Web Components(lwc)](https://lwc.dev/).
-- ⚡ Fun fact: I'd ride 50Kms just for a cup of tea, and I like to sit and look at the sky because I'm easily fasinated by shape of the clouds!:relieved:
-- 📫 How to reach me: [Twitter](https://twitter.com/vighneshPV), [LinkedIn](https://www.linkedin.com/in/pvvighnesh/)
+- 📫 How to reach me **pvighnesh.vishnu@gmail.com**
 
-**pv-vighnesh/pv-vighnesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ⚡ Fun fact **I love Clouds!**
 
-Here are some ideas to get you started:
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ..
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/https://dev.to/pvvighnesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/pvvighnesh" height="30" width="40" /></a>
+<a href="https://twitter.com/vighneshpv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vighneshpv" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/pvvighnesh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pvvighnesh/" height="30" width="40" /></a>
+<a href="https://instagram.com/pvvighnesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pvvighnesh" height="30" width="40" /></a>
+<a href="https://discord.gg/#2895" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#2895" height="30" width="40" /></a>
+</p>
 
----
-## I am also lurking on ⚡
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/pvvighnesh/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='20'>](https://www.instagram.com/catalinmpit/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='20'>](https://twitter.com/@catalinmpit) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='20'>](https://catalins.tech) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='website' height='25'>](https://dev.to/catalinmpit)
----
--->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pv-vighnesh&show_icons=true&locale=en&layout=compact" alt="pv-vighnesh" /></p>
