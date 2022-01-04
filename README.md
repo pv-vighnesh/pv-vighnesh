@@ -13,6 +13,8 @@
 
 - 📝 I regularly write articles on [https://dev.to/pvvighnesh](https://dev.to/pvvighnesh)
 
+- Trailhead - [https://trailblazer.me/id/pvvighnesh](https://trailblazer.me/id/pvvighnesh)
+
 - 💬 Ask me about **Salesforce, Front-end, Design and F1**
 
 - 📫 How to reach me **pvighnesh.vishnu@gmail.com**
