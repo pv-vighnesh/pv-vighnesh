@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm P V Vighnesh!</h1>
-<h3 align="center">I build things that live on the Web and Salesforce!</h3>
+<h3 align="center">Developer, Designer, Human</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pv-vighnesh&label=Profile%20views&color=0e75b6&style=flat" alt="pv-vighnesh" /> </p>
 
