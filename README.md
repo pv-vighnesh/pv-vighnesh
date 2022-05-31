@@ -5,21 +5,17 @@
 
 <p align="left"> <a href="https://twitter.com/vighneshpv" target="blank"><img src="https://img.shields.io/twitter/follow/vighneshpv?logo=twitter&style=for-the-badge" alt="vighneshpv" /></a> </p>
 
-- 🔭 I’m currently working on **Lightning web components, Salesforce and Omnistudio development**
+- 🔭 I’m currently working on **Lightning web components, Salesforce development**
 
 - 🌱 I’m currently learning **React**
-
-- 👨‍💻 All of my projects are available at [https://pv-vighnesh.github.io/](https://pv-vighnesh.github.io/)
 
 - 📝 I regularly write articles on [https://dev.to/pvvighnesh](https://dev.to/pvvighnesh)
 
 - Trailhead - [https://trailblazer.me/id/pvvighnesh](https://trailblazer.me/id/pvvighnesh)
 
-- 💬 Ask me about **Salesforce, Front-end, Design and F1**
+- 💬 Ask me about **Salesforce, Front-end development, Design and F1**
 
 - 📫 How to reach me **pvighnesh.vishnu@gmail.com**
-
-- ⚡ Fun fact **I love Clouds!**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
