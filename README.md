@@ -23,9 +23,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/https://dev.to/pvvighnesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/pvvighnesh" height="30" width="40" /></a>
+<a href="https://dev.to/pvvighnesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/pvvighnesh" height="30" width="40" /></a>
 <a href="https://twitter.com/vighneshpv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vighneshpv" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/pvvighnesh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pvvighnesh/" height="30" width="40" /></a>
+<a href="https://linkedin.com/pvvighnesh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pvvighnesh/" height="30" width="40" /></a>
 <a href="https://instagram.com/pvvighnesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pvvighnesh" height="30" width="40" /></a>
 <a href="https://discord.gg/#2895" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#2895" height="30" width="40" /></a>
 </p>
